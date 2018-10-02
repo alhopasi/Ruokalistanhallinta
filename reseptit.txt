@@ -1,0 +1,24 @@
+Risotto:LEHMÄ:RIISI
+Meetvurstikiusaus:PORSAS:KIUSAUS
+Pasta Carbonara:LEHMÄ:PASTA
+Kanatortilla:KANA:MUU
+Hampurilaiset:LEHMÄ:MUU
+Jauhelihapihvit:LEHMÄ:PERUNA
+Kalapyörykät pastalla:KALA:PASTA
+Kanakiusaus:KANA:KIUSAUS
+Kalapyörykät riisillä:KALA:RIISI
+Uunilohi:KALA:PERUNA
+Tortilla:LEHMÄ:MUU
+Kanaa grillissä:KANA:MUU
+Siskonmakkarakeitto:PORSAS:KEITTO
+Kasviskiusaus:KASVIS:KIUSAUS
+Linssipihvit:KASVIS:PERUNA
+Kalapyörykät perunalla:KALA:PERUNA
+Kanakastike:KANA:RIISI
+Kanasiipiä:KANA:PERUNA
+Jauhelihakeitto:LEHMÄ:KEITTO
+Kasvishampurilaiset:KASVIS:MUU
+Kalakeitto:KALA:KEITTO
+Kanakeitto:KANA:KEITTO
+Uunimakkara:PORSAS:MUU
+PossuWok:PORSAS:PASTA
